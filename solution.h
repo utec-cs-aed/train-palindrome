@@ -8,6 +8,9 @@ struct Node
 struct DoublyList
 {
     Node* head;
-    Node* tail;
-};
+    Node* tail;    
+}; 
+
+
+
 
