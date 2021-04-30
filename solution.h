@@ -5,7 +5,7 @@ struct Node
     Node* prev;
 };
 
-struct DoublyList
+struct DoubleList
 {
     Node* head;
     Node* tail;    

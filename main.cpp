@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    DoublyList* list = new DoublyList();
+    DoubleList* list = new DoubleList();
     int n, val;
     cin >> n;
     for(int i=0;i<n;i++){
